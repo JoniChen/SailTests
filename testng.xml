@@ -1,0 +1,7 @@
+<suite name="criticalPath">
+    <test name="Critical">
+    <classes>
+        <class name="tests.Test1"/>
+    </classes>
+    </test>
+</suite>
